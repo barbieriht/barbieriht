@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiago Barbieri
-- 👀 I’m interested in Data Science and Machine Learning areas.
+- 👀 I’m interested in Data Science and Machine Learning related areas.
 - 🌱 I’m currently studying Computer Engineering at UFSCar (Federal University from São Carlos - BR) and working at Newfoundland - Capital Management, with machine learning tasks of forecasting to investment decisions making.
 - My intention is to use this repository to save my extra studies.
 
